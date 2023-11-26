@@ -97,6 +97,8 @@ p {
       padding-bottom: 10px;
   }
 
-  #line {
-      border: 5px solid black;
+  hr {
+    height: 5px;
+    border: none;
+    background-color: black;
   }
