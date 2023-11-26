@@ -17,9 +17,10 @@ p {
   }
   
   h1 {
-      font-size: 50px;
+      font-size: 80px;
       float: right;
       margin-right:80px;
+      margin-top: 100px;
   }
   
   h2 {
@@ -57,12 +58,11 @@ p {
       overflow: hidden;
       margin-left:30px;
       background-color: #FFE165;
-      min-width: 500px;
+      min-width: 800px;
       width: 50%;
-      height: 123;
+      height: 328px;
       border-radius: 12px;
       border: 5px solid black;
-      padding: 100px 0;
   }
   
   #Top {
@@ -81,7 +81,7 @@ p {
   }
   
   img {
-    width: 120px;
+    width: 290px;
     float: left;
     margin-left:70px;
   }
