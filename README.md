@@ -18,5 +18,6 @@ When joining the server, please read the rules board then place a sign with your
 
 ## Website
 
-Insert link to demo
+- [Website](https://gaming0dino.github.io/PotatoSMP/)
+
 
