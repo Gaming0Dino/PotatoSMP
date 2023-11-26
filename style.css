@@ -29,6 +29,10 @@ p {
   h3 {
     font-size: 30px;
   }
+  
+  a {
+    font-size: 25px;
+  }
 
   a:link {
       font-family: 'Share Tech Mono', monospace;
@@ -55,10 +59,10 @@ p {
       background-color: #FFE165;
       min-width: 500px;
       width: 50%;
-      height: 144;
+      height: 123;
       border-radius: 12px;
       border: 5px solid black;
-      padding: 60px 0;
+      padding: 100px 0;
   }
   
   #Top {
@@ -68,7 +72,7 @@ p {
       margin: 10px;
       background-color: CornflowerBlue;
       width: 96%;
-      height: 340;
+      height: 400;
       border-radius: 12px;
       border: 5px solid black;
       padding-left: 0;
