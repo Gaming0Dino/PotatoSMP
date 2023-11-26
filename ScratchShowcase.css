@@ -1,0 +1,42 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+	background-color: SkyBlue;
+	font-family: 'Patrick Hand', cursive;
+	text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+a:link {
+	font-family: 'Share Tech Mono', monospace;
+	color: lightgreen
+}
+a:visited {
+	font-family: 'Share Tech Mono', monospace;
+	color: red
+}
+a:hover {
+	font-family: 'Share Tech Mono', monospace;
+	color: lime
+}
+a:active {
+	font-family: 'Share Tech Mono', monospace;
+	color: green
+}
+
+div {
+	display: inline-block;
+	position: relative;
+	overflow: hidden;
+	margin: 5px;
+	background-color: CornflowerBlue;
+	width: 500;
+	border-radius: 12px;
+	border: 5px solid black;
+	padding-left: 10;
+}
