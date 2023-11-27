@@ -53,30 +53,15 @@ p {
   }
   
   #Title {
-      float: left;
-      position: relative;
-      overflow: hidden;
-      margin-left:30px;
-      background-color: #FFE165;
-      width: 50%;
-      min-width: 800px;
-      height: 328px;
-      border-radius: 12px;
-      border: 5px solid black;
-  }
-  
-  #Top {
-      display: inline-block;
-      position: relative;
-      overflow: auto;
-      margin: 10px;
-      background-color: CornflowerBlue;
-      width: 96%;
-      padding-bottom: 30px;
-      border-radius: 12px;
-      border: 5px solid black;
-      padding-left: 0;
-      padding-right: 0;
+    display: inline-block;
+    position: relative;
+    overflow: auto;
+    margin: 5px;
+    background-color: FFE165;
+    width: 99%;
+    height: 325px;
+    border-radius: 12px;
+    border: 5px solid black;
   }
   
   img {
@@ -89,9 +74,9 @@ p {
       display: inline-block;
       position: relative;
       overflow: hidden;
-      margin: 10px;
+      margin: 5px;
       background-color: CornflowerBlue;
-      width: 96%;
+      width: 99%;
       border-radius: 12px;
       border: 5px solid black;
       padding-bottom: 10px;
