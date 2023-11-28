@@ -92,3 +92,15 @@ hr {
 	border: none;
 	background-color: black;
 }
+
+.Github {
+	display: inline-block;
+	position: relative;
+	overflow: hidden;
+	background-color: CornflowerBlue;
+	margin-bottom: 15px;
+	border-radius: 12px;
+	border: 5px solid black;
+	padding-left: 24px;
+	padding-right: 24px;
+}
