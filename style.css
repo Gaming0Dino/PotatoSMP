@@ -36,6 +36,10 @@ a {
 	font-size: 25px;
 }
 
+#abutbigger {
+	font-size: 30px;
+}
+
 a:link {
 	font-family: 'Share Tech Mono', monospace;
 	color: lightgreen
@@ -93,7 +97,7 @@ hr {
 	background-color: black;
 }
 
-.sauce {
+#pagebottom {
 	display: inline-block;
 	position: relative;
 	overflow: hidden;
